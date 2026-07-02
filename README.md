@@ -1,6 +1,6 @@
 # Vitaliy Sazonov · `wm2`
 
-**Lead Software Engineer / CTO** — building backend infrastructure and open-source SDKs at **AppKit**.
+**Lead Software Engineer** — building backend infrastructure and open-source SDKs at **AppKit**.
 
 Backend-focused engineer specializing in high-load systems, real-time platforms, and developer tooling. I design and ship distributed architectures end-to-end — from database internals to production observability.
 
