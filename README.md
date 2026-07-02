@@ -21,7 +21,7 @@ Backend-focused engineer specializing in high-load systems, real-time platforms,
 
 ### 🚀 What I'm building
 
-- **AppKit** — backend infrastructure, open-source SDKs, and developer tools
+- **App-Kit** — backend infrastructure, open-source SDKs, and developer tools
 - **Real-time translation & meeting platform** — LiveKit, Whisper, low-latency pipelines
 - **Payment & crypto-gateway infrastructure** — high-reliability transaction systems
 - Open-source **SDKs** extracted from production services
