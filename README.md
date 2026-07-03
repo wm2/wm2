@@ -34,4 +34,4 @@ Backend-focused engineer specializing in high-load systems, real-time platforms,
 - 💼 LinkedIn — [sazonov-vitaliy](https://www.linkedin.com/in/sazonov-vitaliy)
 ---
 
-<sub>Building since 2008 · Backend & distributed systems</sub>
+<sub>Building since 2013 · Backend & distributed systems</sub>
