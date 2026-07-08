@@ -29,9 +29,11 @@ Backend-focused engineer specializing in high-load systems, real-time platforms,
 ---
 
 ### 🔗 Links
-
+- 🌐 Portfolio — [wm2.dev](https://wm2.dev)
 - 💬 Telegram — [@xwm2x](https://t.me/xwm2x)
+- 🐦 Twitter / X — [@xwm2x](https://x.com/xwm2x)
 - 💼 LinkedIn — [sazonov-vitaliy](https://www.linkedin.com/in/sazonov-vitaliy)
+- ✉️ Email — [hi@wm2.dev](mailto:hi@wm2.dev)
 ---
 
 <sub>Building since 2013 · Backend & distributed systems</sub>
